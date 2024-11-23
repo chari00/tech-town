@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Smartphone X",
+    "description": "A high-end smartphone with a stunning display and powerful processor.",
+    "price": 999.99
+  },
+  {
+    "title": "Laptop Pro",
+    "description": "A sleek and powerful laptop designed for professionals.",
+    "price": 1499.99
+  },
+  {
+    "title": "Wireless Earbuds",
+    "description": "Compact and comfortable earbuds with excellent sound quality.",
+    "price": 199.99
+  },
+  {
+    "title": "Smartwatch 2",
+    "description": "A stylish smartwatch with fitness tracking and notifications.",
+    "price": 299.99
+  },
+  {
+    "title": "Gaming Console",
+    "description": "A next-gen gaming console with immersive graphics and fast load times.",
+    "price": 499.99
+  },
+  {
+    "title": "4K TV",
+    "description": "A large 4K television with vibrant colors and smart features.",
+    "price": 799.99
+  },
+  {
+    "title": "Bluetooth Speaker",
+    "description": "A portable speaker with rich sound and long battery life.",
+    "price": 129.99
+  },
+  {
+    "title": "Tablet Plus",
+    "description": "A versatile tablet with a high-resolution display and powerful performance.",
+    "price": 599.99
+  },
+  {
+    "title": "VR Headset",
+    "description": "An advanced VR headset for an immersive virtual reality experience.",
+    "price": 399.99
+  }
+]
